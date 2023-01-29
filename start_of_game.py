@@ -1,0 +1,2 @@
+import bekzat_erkinbekov_hw5
+bekzat_erkinbekov_hw5.casino()
